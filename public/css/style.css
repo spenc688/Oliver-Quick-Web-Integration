@@ -101,7 +101,7 @@ body {
 
 .custom_text_container .title {
   font-size: 20px;
-  font-weight: 800;
+  font-weight: bold;
 }
 
 .custom_text_container .subtitle {
@@ -129,6 +129,7 @@ body {
 
 .info_container .info {
   font-size: 15px;
+  font-weight: bold;
 }
 
 .info_container .title {
@@ -136,7 +137,7 @@ body {
 
 }
 .divider {
-  height: 50px;
+  height: 30px;
   border: 1px solid var(--primary-color);
   opacity: 50%;
 }
